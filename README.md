@@ -23,5 +23,5 @@ A simple Task Project management application using Laravel 11 and React.
 9. Start Artisan server - `php artisan serve`
 
 ## Demo
-
+Coming soon
 
